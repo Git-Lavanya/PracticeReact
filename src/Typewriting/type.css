@@ -1,0 +1,13 @@
+.match{
+    color: #0e630e;
+    background: #e7fbd3;
+}
+
+.unmatch{
+    color: darkred;
+    background: pink;
+}
+.no-fill{
+    color: inherit;
+    background: inherit;
+}
